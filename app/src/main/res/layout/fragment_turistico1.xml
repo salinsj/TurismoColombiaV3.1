@@ -1,0 +1,35 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="danielsalinasjaramillo.com.turismocolombiav3.Turistico1Fragment">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:tools="http://schemas.android.com/tools">
+
+    <LinearLayout
+        style = "@style/linearLayoutStyle">
+    <TextView
+        style = "@style/textViewStyle.Title"
+        android:text="@string/acuaparque"/>
+    <ImageView
+        style = "@style/imageViewStyle"
+        android:src="@drawable/acuaparque"/>
+    <TextView
+        style = "@style/textViewStyle.Content"
+        android:text="@string/acuaparque_datos"/>
+
+    <Button
+        style="@style/ButtonStyle"
+        android:text="@string/mapa"
+        android:id="@+id/bmsitio1"
+        />
+
+    </LinearLayout>
+
+    </ScrollView>
+
+</FrameLayout>

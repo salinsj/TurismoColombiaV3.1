@@ -1,0 +1,26 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="danielsalinasjaramillo.com.turismocolombiav3.Hotel2Fragment">
+
+    <LinearLayout
+        style = "@style/linearLayoutStyle">
+        <TextView
+            style = "@style/textViewStyle.Title"
+            android:text="@string/ruiseñor"/>
+        <ImageView
+            style = "@style/imageViewStyle"
+            android:src="@drawable/ruiseor"/>
+        <TextView
+            style = "@style/textViewStyle.Content"
+            android:text="@string/ruiseñor_datos"/>
+
+        <Button
+            style="@style/ButtonStyle"
+            android:text="@string/mapa"
+            android:id="@+id/bmhotel2"
+            />
+
+    </LinearLayout>
+</FrameLayout>

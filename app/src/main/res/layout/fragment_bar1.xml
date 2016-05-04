@@ -1,0 +1,36 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="danielsalinasjaramillo.com.turismocolombiav3.Bar1Fragment">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:tools="http://schemas.android.com/tools">
+
+        <LinearLayout
+            style = "@style/linearLayoutStyle">
+            <TextView
+                style = "@style/textViewStyle.Title"
+                android:text="@string/antigua"/>
+            <ImageView
+                style = "@style/imageViewStyle"
+                android:src="@drawable/antigua"/>
+            <TextView
+                style = "@style/textViewStyle.Content"
+                android:text="@string/antigua_datos"/>
+
+            <Button
+                style="@style/ButtonStyle"
+                android:text="@string/mapa"
+                android:id="@+id/bmbar1"
+                />
+
+        </LinearLayout>
+
+    </ScrollView>
+
+</FrameLayout>
+

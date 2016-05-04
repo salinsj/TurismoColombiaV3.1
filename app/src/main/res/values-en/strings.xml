@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Colombia Tourist</string>
+
+    <string name="abierto">Open navigation drawer</string>
+    <string name="cerrado">Close navigation drawer</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="title_activity_maps">Site Map</string>
+
+    <string name="inicio">Start</string>
+    <string name="bares">Bars</string>
+    <string name="hoteles">Hotels</string>
+    <string name="Sitios">Tourist Sites</string>
+    <string name="mapa">MAP</string>
+    <string name="regresar">Return</string>
+
+    <!-- Hoteles -->
+    <string name="sixtina">Sixtina Plaza Hotel</string>
+    <string name="sixtina_datos">The Sistine Plaza Hotel has a health spa and wellness offers accommodation with free WiFi in Itagui. The hotel has a solarium, fitness center and restaurant. The park El Poblado is 3.4 km.</string>
+    <string name="ruiseñor">Ruiseñor Hotel</string>
+    <string name="ruiseñor_datos">Hotel Mockingbird is in Itagui and offers free WiFi in all areas. In the morning a complimentary breakfast is served. Rooms at Hotel Mockingbird feature a minibar, flat-screen TV with cable channels and a fan.</string>
+    <string name="fernando">Saint Fernando Plaza Hotel</string>
+    <string name="fernando_datos">The Hotel San Fernando Plaza offers luxurious accommodation with a heated outdoor pool, spa and fitness center in Medellin, in the financial and commercial district of El Poblado. It also houses a bar and a restaurant.</string>
+
+    <!-- Sitios turisticos -->
+
+    <string name="acuaparque">Acuaparque Ditaires</string>
+    <string name="acuaparque_datos">Hours: Tuesday - Sunday: 9:00 am to 5:00 P.M.  5.000 adults and 3,000 shorter than  1.20 MT, How to get there? Station integrated 0421- San Antonio de Prado, 5422 Itagüi Road - San Francisco, Services: Wave pool, Pool School, Childrens pool, water slides, Turkish. Free cloakroom, cafe and restaurant. </string>
+    <string name="estadio">Metropolitan Stadium Ditaires</string>
+    <string name="estadio_datos">city stadium Itagui, Colombia used for football, rugby and athletics. The stadium was opened in 1994 and can accommodate 12,000 spectators.</string>
+    <string name="chimeneas">Park Chimneys</string>
+    <string name="chimeneas_datos">This place represents the city, is a traditional symbol of Itagui, is the entrance to the city, Park Chimneys will be connected also with the Milky Fashion Itagui, which is the commercial center opencast larger from Latin America. It is a tourist pedestrian walkway that connects over 1,100 commercial establishments in the area.</string>
+
+    <!-- Bares -->
+    <string name="antigua">Old Bar</string>
+    <string name="antigua_datos">Open 24 hours, Accepts reservations, No reservation is required, Suitable for groups, Specialty Coffee and Beverages, Telephone: (4) 2771843, email: laantigua.bar.1@facebook.com</string>
+    <string name="san_sebastian">Grill and Bar, SAINT ESTEBAN</string>
+    <string name="san_sebastian_datos">A wonderful place with the best food and great prices, located in the new cultural area of Itagui. Monday to Friday gourmet menu executive. ADDRESSES: 599 47 33. Enjoy the best grill and live music Friday, Saturday.</string>
+    <string name="mangos">Mangos discotheque</string>
+    <string name="mangos_datos">Lunch, drinks, Cash only, home delivery, free Wi-Fi, outdoor seating, parking available, takeaways, TV, Wine and Beer</string>
+
+    <!-- publicidad -->
+    <string name="itagui">Itagüi</string>
+    <string name="itaslogan">The best place to be with family.</string>
+    <string name="deporte">Do you like sports?</string>
+    <string name="deportistas">¡¡Practice in sports unit Ditaires!!</string>
+    <string name="recreacion">Do you love family recreation?</string>
+    <string name="acuaparque_ditaires">¡¡Come to Ditaires Acuaparque!!</string>
+    <string name="teatro">are you excited by the art and the culture?</string>
+    <string name="festival">¡¡Enjoy the theater festival "city of Itagui"!!</string>
+    <string name="invitacion">all this and much more awaits you in the magnificent city of Itagui.</string>
+
+
+    <!-- Demografia -->
+    <string name="demografia">demographic information</string>
+
+
+    <string name="informaci_demogra">The projected at 30 June 2012 for the municipality of Itagui, population is 258,520 inhabitants, making it the third largest conurbation of The Metropolitan Area of ​​the Aburrá Valley for a total of 3.312.165 people. The municipality has a population density of about 13,545 inhabitants per square kilometer. 47.2% of the population are men and 52.8% women. The city has an illiteracy rate of 4.9% in the population over 5 years old.
+    Public services have a high cover, since a 98.9% of homes have electricity service, while 97.5% have water service and 94.7% of telephone communication.
+    According to figures from the Government of Antioquia based on survey Quality of Life 2004 socioeconomic layer that predominates in Itagüi it is stratum 3 (medium-low) with 51.2% of the total housing in the municipality. Followed stratum 2 (low) with 41.7% and 1 (low-low) is 6.0%. Stratum 4 (medium) is only 1.1%.</string>
+
+</resources>

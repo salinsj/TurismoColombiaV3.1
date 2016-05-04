@@ -1,0 +1,70 @@
+<resources>
+    <string name="app_name">Colombia Turistica</string>
+
+    <string name="abierto">Open navigation drawer</string>
+    <string name="cerrado">Close navigation drawer</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="title_activity_maps">Mapa de Lugar</string>
+
+   <string name="inicio">Inicio</string>
+    <string name="bares">Bares</string>
+    <string name="hoteles">Hoteles</string>
+    <string name="Sitios">Sitios Turísticos</string>
+
+    <string name="mapa">MAPA</string>
+    <string name="regresar">Regresar</string>
+
+    <!-- Hoteles -->
+    <string name="sixtina">Sixtina Plaza Hotel</string>
+    <string name="sixtina_datos">El Sixtina Plaza Hotel dispone de centro de spa y bienestar y ofrece alojamiento con conexión WiFi gratuita en Itagüí. El hotel cuenta con solárium, centro de fitness y restaurante. El parque El Poblado está a 3,4 km.</string>
+    <string name="ruiseñor">Hotel Ruiseñor</string>
+    <string name="ruiseñor_datos">El Hotel Ruiseñor se encuentra en Itagüí y ofrece conexión WiFi gratuita en todas sus instalaciones. Por las mañanas se sirve un desayuno gratuito. Las habitaciones del Hotel Ruiseñor disponen de minibar, TV de pantalla plana con canales por cable y ventilador.</string>
+    <string name="fernando">Hotel San Fernando Plaza</string>
+    <string name="fernando_datos">El Hotel San Fernando Plaza ofrece alojamiento lujoso con una piscina climatizada al aire libre, instalaciones de spa y centro de fitness en Medellín, en el distrito financiero y comercial de El Poblado. Además alberga un bar y un restaurante.</string>
+
+    <!-- Sitios turisticos -->
+
+    <string name="acuaparque">Acuaparque Ditaires</string>
+    <string name="acuaparque_datos">Horario de atención: Martes - Domingos: 9:00 A.m. a 5:00 P.m.  $5,000 adultos y $3.000 menores de 1,20 MT ¿Cómo Llegar? Estación Itagüi Ruta integrada 0421- San Antonio de Prado, 5422 - San Francisco Servicios: Piscina de olas, Piscina Escuela, Piscina Infantil, Piscina de Toboganes, Turco. Servicio gratuito de guardarropa, cafetería y restaurante. </string>
+    <string name="estadio">Estadio Metropolitano Ditaires</string>
+    <string name="estadio_datos"> estadio de la ciudad de Itagüí, Colombia utilizado para el fútbol, el rugby y el atletismo. El estadio fue inaugurado en 1994 y tiene capacidad para 12.000 espectadores.</string>
+    <string name="chimeneas">Parque De Las Chimeneas</string>
+    <string name="chimeneas_datos">Este lugar representa a la ciudad, es un símbolo tradicional de Itagüí, es la entrada a la ciudad, El parque de Las Chimeneas estará conectado, además, con la Vía de la Moda de Itagüí, que es el centro comercial a cielo abierto más grande de América Latina. es un corredor peatonal turístico que conecta con los más de 1.100 establecimientos comerciales de la zona.
+</string>
+
+    <!-- Bares -->
+    <string name="antigua">La Antigua Bar</string>
+    <string name="antigua_datos"> Abierto las 24 horas, Acepta reservas, No se requiere reserva, Indicado para grupos, Especialidades Café y Bebidas, Teléfono: (4) 2771843, email: laantigua.bar.1@facebook.com</string>
+    <string name="san_sebastian">SAN ESTEBAN, Parrilla y Bar</string>
+    <string name="san_sebastian_datos">Un lugar maravilloso con la mejor gastronomía y excelentes precios, ubicado en la nueva zona cultural de Itagüí. Lunes a viernes menú ejecutivo gourmet. DOMICILIOS: 599 47 33. Disfruta de la mejor parrilla y música en vivo viernes, sábado.</string>
+    <string name="mangos">Discoteca Mangos</string>
+    <string name="mangos_datos">Almuerzo, Bebidas, Solo efectivo, entrega a domicilio, Wi-Fi gratis, asientos al aire libre, Estacionamiento disponible, comida para llevar, Televisión, Vino y cerveza</string>
+
+    <!-- publicidad -->
+    <string name="itagui">Itagüi</string>
+    <string name="itaslogan">El mejor lugar para estar en familia.</string>
+    <string name="deporte">¿Te gusta el deporte?</string>
+    <string name="deportistas">¡¡Practica en la unidad deportiva Ditaires!!</string>
+    <string name="recreacion">¿Amas la recreacion en familia?</string>
+    <string name="acuaparque_ditaires">¡¡Ven al acuaparque ditaires!!</string>
+    <string name="teatro">¿Te emociona el arte y la cultura?</string>
+    <string name="festival">¡¡Disfruta del festival del teatro "ciudad de itagüi"!!</string>
+    <string name="invitacion">todo esto y mucho mas te espera en el magnifico municipio de itagüi.</string>
+
+
+    <!-- Demografia -->
+    <string name="demografia">Informacion demográfica</string>
+
+
+    <string name="informaci_demogra">La población proyectada al 30 de junio de 2012 para el municipio de Itagüi, es 258.520 habitantes, siendo ésta la tercera aglomeración urbana del área Metropolitana del Valle de Aburrá que suma un total de 3.312.165 de personas. El municipio cuenta con una densidad poblacional de aproximadamente 13.545 habitantes por kilómetro cuadrado. El 47.2 % de la población son hombres y el 52,8 % mujeres. La ciudad cuenta con una tasa de analfabetismo del 4.9% en la población mayor de 5 años de edad.
+Los servicios públicos tienen una alta cobertura, ya que un 98,9% de las viviendas cuenta con servicio de energía eléctrica, mientras que un 97,5% tiene servicio de acueducto y un 94,7% de comunicación telefónica.
+Según las cifras de la Gobernación de Antioquia basadas en la encuesta de Calidad de Vida 2004 el estrato socio-económico que predomina en Itagüi­ es el estrato 3 (medio-bajo) con el 51.2% del total de viviendas del municipio. Le siguen el estrato 2 (bajo) con el 41.7% y el 1 (bajo-bajo) tiene un 6.0%. El estrato 4 (medio) solo se encuentra en un 1.1%.</string>
+
+
+</resources>
+
+
+ 
